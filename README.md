@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Lista de Exercícios - Módulo 2</h1>
 <p align="center"> 36 exercícios de fixação para você treinar agora mesmo </p>
 
